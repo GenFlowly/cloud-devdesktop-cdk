@@ -1,4 +1,4 @@
-## Configure AWS CLI first, DO NOT DEPLOY FROM LOCAL
+## Deploy from local to create AWS EC2 VM running on Ubuntu
 * Use `aws configure`
 * Create `User` in IAM, and get access key, secret key
 * Install nvm - `curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash `
