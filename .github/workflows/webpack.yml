@@ -24,5 +24,6 @@ jobs:
 
     - name: Build
       run: |
+        npm install -g aws-cdk
         npm install
         npx webpack
